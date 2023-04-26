@@ -1,0 +1,33 @@
+#contact-form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 400px;
+    background-color: aqua;
+    margin: 70px auto;
+}
+
+input {
+    text-align: center;
+    width: 30%;
+    height: 50px;
+    margin: 20px auto;
+}
+
+textarea {
+    text-align: center;
+    width: 50%;
+    height: 100px;
+    margin: 20px auto;
+    padding: 40px;
+}
+
+button {
+    width: 20%;
+    height: 30px;
+    margin: 20px auto;
+}
+
+span {
+    text-align: center;
+}
